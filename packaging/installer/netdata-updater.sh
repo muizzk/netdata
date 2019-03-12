@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #shellcheck disable=SC2164
 
-# this script will uninstall netdata
+# this script will update netdata
 
 # Variables needed by script:
 #  - PATH
