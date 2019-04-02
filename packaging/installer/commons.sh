@@ -1,4 +1,4 @@
-# #No shebang needed, its a library
+#!/bin/bash
 #
 # This is a common functions utility library for kickstart
 #
